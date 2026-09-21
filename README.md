@@ -68,7 +68,7 @@ See the paper for the full derivation via the classical equivalent-control (Utki
 ```bibtex
 @article{hussien2026sign,
   title   = {An Asymmetric Instability Threshold for Fixed-Gain Sliding Mode Control with Discontinuous Switching Under Power-Law Contact Stiffness Mismatch},
-  author  = {Hussien, Ahmed Zeinelabdin Omer},
+  author  = {Hussien, Ahmed Z. O.},
   year    = {2026},
   note    = {arXiv preprint}
 }
